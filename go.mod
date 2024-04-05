@@ -1,3 +1,3 @@
-module milestronghold.com/App
+module main.main/main
 
 go 1.22.1
